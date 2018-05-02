@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="MovieView">
+        <attr name="numberHalfStars" format="enum">
+            <enum name="enum_stars_zero" value="0"/>
+            <enum name="enum_stars_zero_five" value="1"/>
+            <enum name="enum_stars_one" value="2"/>
+            <enum name="enum_stars_one_five" value="3"/>
+            <enum name="enum_stars_two" value="4"/>
+            <enum name="enum_stars_two_five" value="5"/>
+            <enum name="enum_stars_three" value="6"/>
+            <enum name="enum_stars_three_five" value="7"/>
+            <enum name="enum_stars_four" value="8"/>
+            <enum name="enum_stars_four_five" value="9"/>
+            <enum name="enum_stars_five" value="10"/>
+        </attr>
+        <attr name="showAnimation" format="boolean"/>
+        <attr name="isFavorite" format="boolean"/>
+
+    </declare-styleable>
+
+</resources>

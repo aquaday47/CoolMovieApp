@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <bool name="default_pref_show_anim_main_view">false</bool>
+    <bool name="default_pref_is_fav">false</bool>
+
+</resources>
