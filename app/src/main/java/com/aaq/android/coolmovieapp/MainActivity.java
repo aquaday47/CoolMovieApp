@@ -4,7 +4,6 @@ import android.content.res.TypedArray;
 import android.os.PersistableBundle;
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
-
 import com.aaq.android.coolmovieapp.Views.MovieView;
 import com.aaq.android.coolmovieapp.model.MyMovie;
 
