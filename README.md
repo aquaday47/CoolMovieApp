@@ -19,3 +19,15 @@ If you use this snippet, the .gitignore file will prevent pushing that file to G
 But take care not to add it on creation!
 Alternatively, you may place it in a file of another type, and access it as a variable, and just make sure to add
 that file's relative path to the .gitignore file
+
+
+
+# Notes on code usages
+
+-- AsyncTask for checkingConnection -- /* from stackoverflow linked by guide
+answered Dec 5 '14 at 9:20 Levit  https://www.google.com/url?q=http://stackoverflow.com/questions/1560788/how-to-check-internet-access-on-android-inetaddress-never-timeouts&sa=D&ust=1525025262338000 
+*/
+
+# Custom view 
+-- modified sample code from here: https://code.tutsplus.com/tutorials/android-sdk-creating-custom-views--mobile-14548  
+
